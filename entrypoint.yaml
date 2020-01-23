@@ -1,0 +1,9 @@
+required_vars:
+  - USERNAME
+  - PASSWORD
+
+optional_vars:
+  - DEBUG
+
+secret_vars:
+  - PASSWORD
